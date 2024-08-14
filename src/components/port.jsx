@@ -57,7 +57,7 @@ function Port(){
             <a href="#"><img src="https://freelogopng.com/images/all_img/1690643640twitter-x-icon-png.png" alt="Twitter" /></a>
           </div>
           <div className="buttons">
-            <a href="#" className="btn">Contact Me</a>
+            <a href="#contact" className="btn">Contact Me</a>
             <a href="#" className="btn">See Resume</a>
           </div>
         </div>
@@ -119,6 +119,14 @@ function Port(){
                         <h3>College</h3>
                         <p>Girijyothi Colleage Idukki</p>
                         <p><i className="date-icon"></i> 2018 - 2021</p>
+                        <a href="#" className="view-more">View More →</a>
+                    </div>
+                </div>
+                <div className="timeline-item">
+                    <div className="timeline-content">
+                        <h3>MERN Stack</h3>
+                        <p>Synefo Solution Eranakulam</p>
+                        <p><i className="date-icon"></i> 2023 - 2024</p>
                         <a href="#" className="view-more">View More →</a>
                     </div>
                 </div>
